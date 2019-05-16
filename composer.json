@@ -1,0 +1,16 @@
+{
+    "name": "bib/mdex",
+    "description": "mangadex grabber",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "sinkaroid",
+            "email": "bibsindra@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+  }
+  }
+
